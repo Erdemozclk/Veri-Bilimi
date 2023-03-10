@@ -1,0 +1,11 @@
+Yanlılık, bir karar veya değerlendirme yapılırken objektif olmama veya önyargılı davranma durumudur. Yanlılık, insanlar arasında sıkça görülen bir durumdur, ancak yapay zeka sistemlerinde de meydana gelebilir. Örneğin, bir yapay zeka sistemine verilen eğitim verileri, veri setindeki eksiklikler ve önyargılar nedeniyle yanlış sonuçlar üretebilir ve genellikle veri setindeki çeşitlilik eksikliği nedeniyle ortaya çıkar. Örneğin, belirli bir topluluğun temsil edilmediği bir veri setinde, yapay zeka sistemi bu topluluğa ait özellikleri öğrenemez ve bu topluluğa ait örnekleri doğru bir şekilde sınıflandıramaz. . Yanlılık oluşması sonucu çeşitler sonuçlar doğurabilir. Bunlara tek tek başlıklarla bakmak gerekirse; 
+
+Adaletsizlik: Yanlılık, belirli bir topluluğun ayrımcılığa uğramasına neden olabilir. Örneğin, belirli bir etnik gruba veya cinsiyete ait insanlar, yapay zeka sistemleri tarafından yanlış etiketlenebilir veya haksız bir şekilde cezalandırılabilir.
+
+Güvensizlik: Yanlılık, yapay zeka sistemlerinin güvenilirliğini azaltabilir. Bu durum, insanlar tarafından yapay zeka sistemlerine güvenmeme ve bu sistemleri kullanmama eğilimine yol açabilir.
+
+Yanıltıcı sonuçlar: Yanlılık, yapay zeka sistemlerinin verdiği sonuçların yanıltıcı olmasına neden olabilir. Bu durum, iş kararları gibi önemli kararlarda yanlış kararlar alınmasına neden olabilir.
+
+Eşitsizlik: Yanlılık, farklı topluluklar arasında eşitsizlikleri artırabilir. Bu durum, belirli bir topluluğun diğer topluluklara göre daha kötü sonuçlar almasına neden olabilir.
+
+Bu nedenle, yapay zeka sistemlerinde yanlılık azaltmak için veri setleri çeşitlendirilmeli ve verilerdeki yanlılıkların fark edilmesi ve düzeltilmesi için dikkatli bir çalışma yapılmalıdır. Yapay zeka sistemlerinin adaletli, güvenilir ve eşitlikçi olması, insanların bu sistemlere güvenmelerini ve bunları kullanmalarını sağlamak için önemlidir.
